@@ -5,10 +5,10 @@
 # Screenshot
 
 <p float="left">
-	<img src="screenshots\api.png" height="250" width="410" />
-	<img src="screenshots\api1.png" height="250" width="410" />
-	<img src="screenshots\api2.png" height="250" width="410" />
-	<img src="screenshots\api2.png" height="250" width="410" />
+	<img src="screenshot\api.jpg" height="250" width="410" />
+	<img src="screenshot\api1.png" height="250" width="410" />
+	<img src="screenshot\api2.png" height="250" width="410" />
+	<img src="screenshot\api2.png" height="250" width="410" />
 </p>
 
 ## what is an api?
