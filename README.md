@@ -5,10 +5,10 @@
 # Screenshot
 
 <p float="left">
-	<img src="screenshots\api.jpg" height="250" width="410" />
-	<img src="screenshots\api1.png" height="250" width="410" />
-	<img src="screenshots\api2.png" height="250" width="410" />
-	<img src="screenshots\api3.png" height="250" width="410" />
+	<img src="screenshots\get.jpg" height="250" width="410" />
+	<img src="screenshots\post.png" height="250" width="410" />
+	<img src="screenshots\patch.png" height="250" width="410" />
+	<img src="screenshots\delete.png" height="250" width="410" />
 </p>
 
 ## what is an api?
@@ -18,6 +18,18 @@ An application programming interface is a computing interface which defines inte
 ## what is own api ?
 
 ownapi is a simple rest api created in php and mysql...
+
+## Supported Methods
+
+* GET
+	- Get All Data.
+	- Get A Single Student Data Using id Parameter.
+* POST
+	- Add New Record to the Database
+* PATCH
+	- Update to Database(its update only changed values)
+* DELETE
+	- Delete Record from Database
 
 # created By
 
