@@ -5,7 +5,7 @@
 # Screenshot
 
 <p float="left">
-	<img src="screenshots\get.jpg" height="250" width="410" />
+	<img src="screenshots\get.png" height="250" width="410" />
 	<img src="screenshots\post.png" height="250" width="410" />
 	<img src="screenshots\patch.png" height="250" width="410" />
 	<img src="screenshots\delete.png" height="250" width="410" />
