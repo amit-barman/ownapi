@@ -27,7 +27,7 @@ ownapi is a simple rest api created in php and mysql...
 * POST
 	- Add New Record to the Database
 * PATCH
-	- Update to Database(its update only changed values)
+	- Update to Database(its update modified values only)
 * DELETE
 	- Delete Record from Database
 
